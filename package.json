@@ -1,0 +1,15 @@
+{
+  "name": "kungfu",
+  "version": "0.0.1",
+  "description": "Kungfu is a solution to javascript callback hell.",
+  "main": "kungfu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peixuan Ding",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "2.7.2",
+    "escodegen": "1.8.0"
+  }
+}
