@@ -19,7 +19,7 @@ function code() {
 }
 ```
 
-Then kungfu master compile it into this:
+Then kungfu master compiles it into this:
 
 
 ```javascript
