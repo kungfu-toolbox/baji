@@ -1,5 +1,7 @@
 # Kungfu
 
+[![Build Status](https://travis-ci.org/kungfu-toolbox/kungfu.svg?branch=master)](https://travis-ci.org/kungfu-toolbox/kungfu)
+
 Kungfu.js is a Javascript compiler designed to solve the callback hell problem.
 
 **Warning:** Kungfu is still under development, please do not use it in any production environment.

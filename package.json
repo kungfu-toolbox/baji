@@ -4,9 +4,17 @@
   "description": "Kungfu is a solution to javascript callback hell.",
   "main": "kungfu.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "scripts/check.sh test/demo.js test/demo.ref"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kungfu-toolbox/kungfu.git"
   },
   "author": "Peixuan Ding",
+  "contributors":[{
+    "name": "Zhengyang Liu",
+    "email": "zhengyang-liu@hotmail.com"
+  }],
   "license": "MIT",
   "dependencies": {
     "esprima": "2.7.2",
