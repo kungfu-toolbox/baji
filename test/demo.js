@@ -1,4 +1,4 @@
-var kungfu = require('../kungfu');
+var baji = require('../baji');
 
 function code() {
     fs = require('fs');
@@ -9,5 +9,5 @@ function code() {
     console.log(data);
 }
 
-var compiled = kungfu.compile(code.toString());
+var compiled = baji.compile(code.toString());
 console.log(compiled);

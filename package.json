@@ -1,14 +1,14 @@
 {
-  "name": "kungfu",
+  "name": "baji",
   "version": "0.0.1",
-  "description": "Kungfu is a solution to javascript callback hell.",
-  "main": "kungfu.js",
+  "description": "Baji is a solution to javascript callback hell.",
+  "main": "baji.js",
   "scripts": {
     "test": "scripts/check.sh test/demo.js test/demo.ref"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kungfu-toolbox/kungfu.git"
+    "url": "https://github.com/kungfu-toolbox/baji.git"
   },
   "author": "Peixuan Ding",
   "contributors":[{

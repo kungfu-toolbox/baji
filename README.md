@@ -1,10 +1,10 @@
-# Kungfu
+# baji
 
-[![Build Status](https://travis-ci.org/kungfu-toolbox/kungfu.svg?branch=master)](https://travis-ci.org/kungfu-toolbox/kungfu)
+[![Build Status](https://travis-ci.org/kungfu-toolbox/baji.svg?branch=master)](https://travis-ci.org/kungfu-toolbox/baji)
 
-Kungfu.js is a Javascript compiler designed to solve the callback hell problem.
+baji.js is a Javascript compiler designed to solve the callback hell problem.
 
-**Warning:** Kungfu is still under development, please do not use it in any production environment.
+**Warning:** baji is still under development, please do not use it in any production environment.
 
 # Example
 
@@ -21,7 +21,7 @@ function code() {
 }
 ```
 
-Then kungfu master compiles it into this:
+Then baji master compiles it into this:
 
 
 ```javascript
@@ -36,7 +36,7 @@ function code() {
 }
 ```
 
-Try Kungfu:
+Try baji:
 
 ```
 node examples/demo.js
